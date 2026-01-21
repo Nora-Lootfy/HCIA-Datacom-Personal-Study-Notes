@@ -40,7 +40,9 @@ Devices that connect end devices and control data flow.
 - Forwards **data frames** based on MAC addresses
 - Closest device to end users
 
-<img src="images/switches.jpg">
+<p align="center">
+  <img src="images/switches.png" width="500">
+</p>
 
 > [!NOTE]
 > A switch has **one broadcast domain**
@@ -121,15 +123,15 @@ Devices that connect end devices and control data flow.
 ### Network Topologies
 
 | Topology | Shape | Definition | Advantages | Disadvantages |
-|--------|------------|------------|------------|---------------|
-| Point-to-Point | <img src="images/P2P.png"> |Direct link between two devices | Simple, fast | No redundancy |
-| Star | <img src="images/star.png">|All devices connect to a central device | Easy to manage | Central device failure |
-| Bus | <img src="images/bus.png">|All devices share one cable | Low cost | Collisions, hard troubleshooting |
-| Ring | <img src="images/ring.png">|Devices form a closed loop | Predictable performance | Single failure affects network |
-| Tree | <img src="images/tree.png">|Hierarchical structure | Scalable | Complex management |
-| Mesh | <img src="images/mesh.png"> |Devices interconnected | High reliability | High cost |
-| Partial Mesh | <img src="images/partial-mesh.png">|Some devices fully connected | Balanced cost & reliability | Complex design |
-| Hybrid | <img src="images/hybrid.png"> |Combination of topologies | Flexible | Design complexity |
+|--------|--------|------------|------------|---------------|
+| Point-to-Point | <p align="center"><img src="images/P2P.png" width="120"></p> | Direct link between two devices | Simple, fast | No redundancy |
+| Star | <p align="center"><img src="images/star.png" width="120"></p> | All devices connect to a central device | Easy to manage | Central device failure |
+| Bus | <p align="center"><img src="images/bus.png" width="120"></p> | All devices share one cable | Low cost | Collisions, hard troubleshooting |
+| Ring | <p align="center"><img src="images/ring.png" width="120"></p> | Devices form a closed loop | Predictable performance | Single failure affects network |
+| Tree | <p align="center"><img src="images/tree.png" width="120"></p> | Hierarchical structure | Scalable | Complex management |
+| Mesh | <p align="center"><img src="images/mesh.png" width="120"></p> | Devices interconnected | High reliability | High cost |
+| Partial Mesh | <p align="center"><img src="images/partial-mesh.png" width="120"></p> | Some devices fully connected | Balanced cost & reliability | Complex design |
+| Hybrid | <p align="center"><img src="images/hybrid.png" width="120"></p> | Combination of topologies | Flexible | Design complexity |
 
 ---
 
