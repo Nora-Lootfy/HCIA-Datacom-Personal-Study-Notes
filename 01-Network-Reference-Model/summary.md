@@ -176,6 +176,7 @@ It is used to discover the MAC address for a given IP address
 | --------------- | --------- | ---------------------------- | ----------------------------- |
 | **Copper**      | **RJ-45** | Twisted pair Ethernet cables | Standard Ethernet connector   |
 |                 | **DB-60** | Serial cables                | Router WAN serial connections |
+|                 | **DB-9**  | Console cables               | To configure devices          |
 | **Fiber Optic** | **LC**    | Fiber cables                 | Small form-factor connector   |
 |                 | **SC**    | Fiber cables                 | Square, push-pull connector   |
 |                 | **FC**    | Fiber cables                 | Threaded, secure connection   |
