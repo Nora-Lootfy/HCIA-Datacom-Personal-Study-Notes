@@ -29,15 +29,14 @@ HCIA-Datacom-Personal-Study-Notes/
 ├── README.md
 │
 ├── 00-Data-Communication-Network-Basis/
-│   ├── summary.md
-│   └── images/
+│   └── summary.md
 │
 ├── 01-Network-Reference-Model/
-│   ├── summary.md
-│   └── images/
+│   └── summary.md
 │
 ├── 02-Huawei VRP Basics/
-│   └── underwork
+│   ├── summary.md
+│   └── labs/
 │
 ├── 03-Network Layer Protocols and IP Addressing/
 │   └── underwork
