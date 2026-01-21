@@ -33,7 +33,8 @@ HCIA-Datacom-Personal-Study-Notes/
 │   └── images/
 │
 ├── 01-Network-Reference-Model/
-│   └── underwork
+│   ├── summary.md
+│   └── images/
 │
 ├── 02-Huawei VRP Basics/
 │   └── underwork
