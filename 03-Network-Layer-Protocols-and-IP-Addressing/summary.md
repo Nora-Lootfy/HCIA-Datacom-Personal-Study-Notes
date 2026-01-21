@@ -109,8 +109,10 @@ Example:
 
 **IPv4 Header**  
 <p align="center">
-  <img src="images/IPv4Header.png" width="400">
+  <img src="images/IPv4Header.png" width="600">
 </p>
+
+<br>
 
 | Field Name                 | Length   | Description                                                                                               |
 | -------------------------- | -------- | --------------------------------------------------------------------------------------------------------- |
