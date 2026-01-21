@@ -41,7 +41,7 @@ Devices that connect end devices and control data flow.
 - Closest device to end users
 
 <p align="center">
-  <img src="images/switches.png" width="500">
+  <img src="images/switches.jpg" width="500">
 </p>
 
 > [!NOTE]
