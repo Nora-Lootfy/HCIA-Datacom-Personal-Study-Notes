@@ -23,7 +23,7 @@ This repository is mainly for **personal study and revision**:
 
 ## 📁 Repository Structure
 
-```pgsql
+```
 HCIA-Datacom-Personal-Study-Notes/
 │
 ├── README.md
@@ -34,12 +34,12 @@ HCIA-Datacom-Personal-Study-Notes/
 ├── 01-Network-Reference-Model/
 │   └── summary.md
 │
-├── 02-Huawei VRP Basics/
+├── 02-Huawei-VRP-Basics/
 │   ├── summary.md
 │   └── labs/
 │
-├── 03-Network Layer Protocols and IP Addressing/
-│   └── underwork
+├── 03-Network-Layer-Protocols-and-IP-Addressing/
+│   └── summary.md
 │
 ├── 04-IP Routing Basics/
 │   └── underwork
