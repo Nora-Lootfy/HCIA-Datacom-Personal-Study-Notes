@@ -42,9 +42,57 @@ HCIA-Datacom-Personal-Study-Notes/
 │   └── summary.md
 │
 ├── 04-IP-Routing-Basics/
-│   └── underwork
+│   └── summary.md
 │
 ├── 05-OSPF-Basics/
+│   └── underwork
+│
+├── 06-Ethernet-Switching-Basics/
+│   └── underwork
+│
+├── 07-VLAN-Principles-and-Configuration/
+│   └── underwork
+│
+├── 08-STP-Principles-and-Configuration/
+│   └── underwork
+│
+├── 09-Inter-VLAN-Communication/
+│   └── underwork
+│
+├── 10-Eth-Trunk-iStack-and-CSS/
+│   └── underwork
+│
+├── 11-ACL-Principles-and-Configuration/
+│   └── underwork
+│
+├── 12-AAA-Principles-and-Configuration/
+│   └── underwork
+│
+├── 13-Network-Address-Translation/
+│   └── underwork
+│
+├── 14-Network-Services-and-Applications/
+│   └── underwork
+│
+├── 15-WLAN-Overview/
+│   └── underwork
+│
+├── 16-WAN-Technologies/
+│   └── underwork
+│
+├── 17-Network-Management-and-O&M/
+│   └── underwork
+│
+├── 18-IPv6-Basics/
+│   └── underwork
+│
+├── 19-SDN-and-NFV-Overview/
+│   └── underwork
+│
+├── 20-Network-Programmability-and-Automation/
+│   └── underwork
+│
+├── 21-Typical-Campus-Network-Architectures-and-Practices/
 │   └── underwork
 │
 ├── cheatsheets/
