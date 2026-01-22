@@ -41,10 +41,10 @@ HCIA-Datacom-Personal-Study-Notes/
 ├── 03-Network-Layer-Protocols-and-IP-Addressing/
 │   └── summary.md
 │
-├── 04-IP Routing Basics/
+├── 04-IP-Routing-Basics/
 │   └── underwork
 │
-├── 05-OSPF Basics/
+├── 05-OSPF-Basics/
 │   └── underwork
 │
 ├── cheatsheets/
