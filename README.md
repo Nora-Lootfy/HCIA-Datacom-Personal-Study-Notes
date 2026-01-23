@@ -45,7 +45,8 @@ HCIA-Datacom-Personal-Study-Notes/
 │   └── summary.md
 │
 ├── 05-OSPF-Basics/
-│   └── underwork
+│   ├── summary.md
+│   └── labs/
 │
 ├── 06-Ethernet-Switching-Basics/
 │   └── underwork
