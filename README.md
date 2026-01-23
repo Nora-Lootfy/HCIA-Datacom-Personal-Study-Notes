@@ -49,7 +49,7 @@ HCIA-Datacom-Personal-Study-Notes/
 │   └── labs/
 │
 ├── 06-Ethernet-Switching-Basics/
-│   └── underwork
+│   └── summary.md
 │
 ├── 07-VLAN-Principles-and-Configuration/
 │   └── underwork
